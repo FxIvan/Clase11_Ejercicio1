@@ -11,6 +11,7 @@
 ----------------------------------------
 ### Ordenar por nombre
 
+<img width="948" height="277" alt="image" src="https://github.com/user-attachments/assets/9d69566d-bfd0-4ef7-bfb6-adc9798b9167" />
 
 ----------------------------------------
 ### Si el salario es igual, entonces ordena por nombre
